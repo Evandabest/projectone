@@ -5,7 +5,7 @@ function Cardstack() {
 
     const data = [
         { Name: "Flora",
-          Description : "App to stay on track",
+          Description : "App to stay on focused on work",
           Image : "src/pictures/flora.jpeg",
           Link: "https://flora.appfinca.com/en/"
         },
@@ -23,13 +23,13 @@ function Cardstack() {
         },
         {
           Name: "Grammerly",
-          Description: "Edits your writing for you",
+          Description: "Checks and edits you writing",
           Image: "src/pictures/Grammerly.png",
           Link: "https://app.grammarly.com"
         },
         {
           Name: "Chat-GPT",
-          Description: "AI chat bot to assist students with work",
+          Description: "AI chat bot to assist students",
           Image: "src/pictures/chatgpt.png",
           Link: "https://chat.openai.com"
         },
@@ -47,7 +47,7 @@ function Cardstack() {
         },
         {
           Name: "Libgen",
-          Description: "Online resivour of textbooks",
+          Description: "Online reservoir of textbooks",
           Image: "src/pictures/libgen.png",
           Link: "https://libgen.is"
         },
@@ -59,7 +59,7 @@ function Cardstack() {
         },
         {
           Name: "Socratic",
-          Description: "Scanner and finder for questions",
+          Description: "Scanner and finder",
           Image: "src/pictures/socratic.jpeg",
           Link: "https://socratic.org"
         },
